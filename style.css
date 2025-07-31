@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: #a5cee8;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #477793;
+    color: rgb(197, 221, 243);
+    padding: 5px;
+    text-align: center;
+}
+.container{
+    max-width: 900px;
+    margin: 20px auto;
+    background: rgb(238, 243, 246);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1)
+}
+
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
